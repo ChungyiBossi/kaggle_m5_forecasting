@@ -3,7 +3,7 @@
 ## 探索性資料分析與分析結果說明
 ### Food / Hobbies / Household 三大類商品種類數
 ![](https://github.com/ChungyiBossi/kaggle_m5_forecasting/blob/main/img/Amount_of_items_by_category.jpg)
-以種類數目來說, FOOD類較另外兩類為少, HOBBIE類型為最少
+以種類數目來說, FOOD類較另外兩類為多, HOBBIE類型為最少
 
 ### 同大類總銷售數目
 ![](https://github.com/ChungyiBossi/kaggle_m5_forecasting/blob/main/img/Total_sales_by_item_type.jpg)
